@@ -7,7 +7,7 @@
 input{
     border: 2px solid black !important;
 }
-.MainDiv{
+/* .MainDiv{
     min-height: 100vh;
     width: auto;
     padding: 3px;
@@ -54,4 +54,4 @@ h3{
 .showDiv{
     font-size: 25px;
     color: red;
-}
+} */
